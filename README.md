@@ -1,4 +1,4 @@
-# Jeu de Morpion avec "IA" - Algo Minimax avec Élagage Alpha-Bêta
+# Jeu de Morpion avec "IA" - Algo Min/Max avec Élagage Alpha-Bêta
 
 Ce projet est une implémentation du jeu classique de morpion (tic-tac-toe) avec une intelligence artificielle très basique pour un cours de programmation Web en L3 MIASHS, cet "IA" est intégrée en utilisant l'algorithme **minimax avec élagage alpha-bêta**.
 
